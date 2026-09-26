@@ -1,0 +1,16 @@
+Beneficiary ID,Program Name,Amount Disbursed,Disbursement Date,Status
+B001,Education,5000,2024-01-20,Completed
+B002,Healthcare,3000,2024-03-01,Completed
+B003,Education,5000,2024-02-10,Completed
+B004,Livelihood,8000,2024-03-15,Pending
+B005,Education,5000,2024-02-25,Completed
+B006,Healthcare,3000,2024-04-10,Completed
+B007,Livelihood,8000,2024-03-05,Completed
+B008,Education,5000,2024-04-01,Pending
+B009,Healthcare,3000,2024-05-05,Completed
+B010,Education,5000,2024-02-15,Completed
+B011,Livelihood,8000,2024-04-20,Completed
+B012,Healthcare,3000,2024-03-10,Completed
+B001,Nutrition,2000,2024-06-01,Completed
+B014,Livelihood,8000,2024-05-15,Pending
+B015,Education,5000,2024-02-01,Completed
